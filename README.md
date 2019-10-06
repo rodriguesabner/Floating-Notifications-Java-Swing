@@ -7,10 +7,6 @@ Beautiful Floating Notification in Java Swing. Like Android.
 Releases
 https://github.com/kingaspx/Floating-Notifications-Java-Swing/releases
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
 ### Success Notification - LONG_DELAY
 
 ```
