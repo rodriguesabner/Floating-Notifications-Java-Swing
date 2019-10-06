@@ -19,7 +19,7 @@ Explain how to run the automated tests for this system
                 Toast.LONG_DELAY) //Duration
                 .setVisible(true);
 ```
-### Success Warning - SHORT_DELAY
+### Warning Notification - SHORT_DELAY
 
 ```
         new Toast.ToastWarning(
@@ -27,7 +27,7 @@ Explain how to run the automated tests for this system
                 Toast.SHORT_DELAY) //Duration
                 .setVisible(true);
 ```
-### Success Notification - LONG_DELAY
+### Error Notification - LONG_DELAY
 
 ```
         new Toast.ToastError(
