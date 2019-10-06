@@ -32,7 +32,7 @@ https://github.com/kingaspx/Floating-Notifications-Java-Swing/releases
                 .setVisible(true);
 ```
 
-### And coding style tests
+### Custom Notification
 
 ```
         new Toast.ToastCustom(
